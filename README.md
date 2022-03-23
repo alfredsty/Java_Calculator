@@ -17,6 +17,6 @@
 * 안드로이드폰에 있는 계산기를 모티브로 만든 UI로 심플함.
 * 단, 초기화 버튼은 구현을 안함.
 ## Tools
-
+![Android Studio](https://img.shields.io/badge/Android%20Studio-008000.svg?&style=for-the-badge&logo=Android%20Studio&logocolor=white)
 ## Skill Stack
 ![Java](https://img.shields.io/badge/Java-FF160B.svg?&style=for-the-badge&logo=Java&logocolor=white)
