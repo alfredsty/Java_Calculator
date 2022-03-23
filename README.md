@@ -1,5 +1,5 @@
 # Java_Calculator
-Android-Studio
+
 
 ## 구현 목록
 * UI 베이스
@@ -16,5 +16,7 @@ Android-Studio
 * 자바를 이용하여 안드로이드 스튜디오로 UI까지 구현함.
 * 안드로이드폰에 있는 계산기를 모티브로 만든 UI로 심플함.
 * 단, 초기화 버튼은 구현을 안함.
+## Tools
+
 ## Skill Stack
 ![Java](https://img.shields.io/badge/Java-FF160B.svg?&style=for-the-badge&logo=Java&logocolor=white)
